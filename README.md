@@ -1,12 +1,56 @@
-# 💫 About Me:
-Hi, I'm cx051 👋<br><br>I'm someone who enjoys exploring how everyday digital tools can be simplified, refined, and made more efficient.<br><br>I'm not a professional developer, just a curious builder who likes experimenting with ideas and turning small problems into practical solutions. Most of what I build starts from a simple question: “Can this be made smoother or easier to use?”<br><br>What I Enjoy Working On<br><br>- Improving daily use digital tools<br>- Creating simple, efficient utilities<br>- Exploring clean and thoughtful design<br>- Experimenting with ways to make software faster, smoother, and more practical<br><br>Why I Build<br><br>I like making my own daily workflow easier, smoother, and more enjoyable.<br>Many of my projects start as small personal tweaks or experiments and gradually evolve into well-designed tools that solve everyday problems.<br><br>My focus is usually on simplicity, usability, and elegant design. Small improvements that make technology feel more natural to use.<br><br><br><br>"Build things that make life a little smoother."
+<p align="center">
+  <img src="./image.png" width="90%" />
+</p>
 
+<p align="center">
+  <sub>IDEAL WORKSPACE</sub>
+</p>
 
-# 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cx051&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=cx051&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cx051&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Learning.+Building.+Improving.&center=true&width=500&height=50&color=666666&duration=4500&pause=2000&cursor=false" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,bash,css,electron,html,js,linux,lua,react&theme=light" height="42" />
+</p>
+
+----------------------------------
+
+<br><br>
+
+<!-- PROJECTS HEADING -->
+<div align="center">
+  <h1 style="font-size: 2.5rem; font-weight: 800; letter-spacing: 4px; margin-bottom: 10px; background: linear-gradient(90deg, #333, #666); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    PROJECTS
+  </h1>
+  <div style="width: 60px; height: 4px; background: #333; border-radius: 2px; margin: 0 auto;"></div>
+</div>
+
+<br><br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%" style="padding: 8px;">
+        <a href="https://github.com/cx051/Youtube-App">
+          <img src="./youtubeapp.png" width="100%" alt="Youtube App" style="max-width: 300px; border-radius: 6px;" />
+        </a><br>
+        <b>Youtube App</b><br>
+        <sub>A modern Youtube app built on electron with adblocking and other extra features.
+        <a href="https://github.com/cx051/Youtube-App" style="background:#8a2be2;color:#fff;padding:5px 12px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:11px">VISIT</a></sub>
+      </td>
+      <td valign="top" width="50%" style="padding: 8px;">
+        <a href="https://github.com/cx051/Rofi-Beats">
+          <img src="./rofibeats.png" width="100%" alt="Rofi Beats" style="max-width: 300px; border-radius: 6px;" />
+        </a><br>
+        <b>Rofi Beats</b><br>
+        <sub>A minimal music interface focused on aesthetics, workflow, and lightweight performance.
+          <a href="https://github.com/cx051/Rofi-Beats" style="background:#8a2be2;color:#fff;padding:5px 12px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:11px">VISIT</a></sub>
+      </td>
+    </tr>
+  </table>
+</div>
