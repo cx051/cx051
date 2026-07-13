@@ -1,8 +1,8 @@
 <div>
 
-<img src="wall.jpeg" width="40%" align="right" />
+<img src="assets/wall.jpeg" width="40%" align="right" />
 
-<img src="one.gif" width="18%" />
+<img src="assets/one.gif" width="18%" />
 
 <pre align="left">
 
@@ -29,7 +29,7 @@ I'm erebos(alias), a curious learner✨
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/cx051__" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" alt="Instagram" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://cx051.github.io" target="_blank"><img src="favicon.png" width="28" alt="Website" /></a>
+<a href="https://cx051.github.io" target="_blank"><img src="assets/favicon.png" width="28" alt="Website" /></a>
 
 <br clear="both" />
 
