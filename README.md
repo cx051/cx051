@@ -19,11 +19,6 @@ I'm erebos(alias), a curious learner✨
 
 <br />
 
-<!-- Discord Status -->
-<img src="https://lanyard.cnrad.dev/api/1525522204530573523" alt="Discord Status" />
-
-<br /><br />
-
 <!-- Social Links -->
 <a href="https://discord.com/users/1525522204530573523" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" width="28" alt="Discord" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
